@@ -1,1 +1,5 @@
-console.log("HelloWorld")
+sendHello()
+
+function sendHello() {
+    console.log("Hello!")
+}
